@@ -1,1 +1,1 @@
-Hello world Github!!test 中文;retest 中文
+Hello world Github!!test 中文;retest 中文;windows下只能用notepad但不能为GB2312
